@@ -11,7 +11,7 @@ Very simple GUI written in python using pygame.
 - Download or Git clone this repository into a local folder.
 - pip, run ```pip install -r requirements.txt```
 
-# # Launching
+# Launching
 
 - Launch the GUI(graphical user interface) template by opening a terminal.
 - change directory to where main.py is located. e.g  ```C:\github\python_pygame_gui_template\```
