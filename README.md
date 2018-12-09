@@ -1,6 +1,6 @@
 # python_pygame_gui_template
 Very simple GUI written in python using pygame.
-![image](https://photos.app.goo.gl/NkohUwG9odnHXyr58)
+![image](http://i1259.photobucket.com/albums/ii550/leonh316/demopythonpygametemplateGUI_zpssg6xco2i.png)
 
 # Version
 
